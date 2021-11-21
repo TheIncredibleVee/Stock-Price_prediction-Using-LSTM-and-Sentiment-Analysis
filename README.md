@@ -19,3 +19,15 @@ There are are total of 6 python notebooks:
 Data Mining: MSFT_DATA_MINING.ipynb, INTEL_DATA_MINING.ipynb, CISCO_DATA_MINING.ipynb
 Modelling: MSFT.ipynb, Intel.ipynb, CISCO.ipynb
 
+Main Python Libraries Used:
+Below listed are the main python libraries we used for this project.
+Quandl: To get stock price data from NASDAQ 
+Pandas: For creating, saving and loading Data Frames and much more.
+NumPy: For improving computational efficiency
+Matplotlib and Seaborn: For visualizing the results into charts and graphs
+NLTK: For sentiment analysis using lexicon method
+Requests: Requesting data to server from a url
+BeautifulSoup: For pulling data out of HTML pages 
+Urllib: Used along with BeautifulSoup to mine data from webpages
+Tensorflow: Mainly used Keras for modelling LSTM 
+Sklearn: For metrics and performance. Also used for normalization using  MinMax Scaling
